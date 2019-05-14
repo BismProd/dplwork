@@ -1,0 +1,95 @@
+<head>
+<title>CPU-choice(домашня)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="shortcut icon" type="image/x-icon" href="css/images/favicon.ico" />
+<script src="js/jquery-1.4.2.js" type="text/javascript"></script>
+<script src="js/js-fnc.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="header">
+  <div class="shell">
+    <div id="logo-holder">
+      <h1 id="logo"><a href="#">CPU-choice</a></h1>
+      <p id="quote">CPU info choise</p>
+    </div>
+    <div id="navigation">
+      <ul>
+        <li><a href="#"class="active"><span> Домашня <input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/index.html#'" /></span>
+</form></a></li>
+        <li><a href="#"><span>Підбір за призначенням<input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/choice1.html'" /></span>
+</form></a></li>
+        <li><a href="#"><span>Підбір по критеріям<input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/choice2.html'" /></span>
+</form></a></li>
+        <li><a href="#"><span>Види процесорів <input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/kinds.html'" /></span>
+</form></a></li>
+        <li><a href="#"><span>Популярні процесори<input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/popular.html'" /></span>
+</form></a></li>
+        <li><a href="#"><span>Про сайт<input type="button" value="(*)"  onclick="parent.location='file:///G:/Diplom/Pro/about%20me.html'" /></span>
+</form></a></li>
+      </ul>
+    </div>
+    <div class="cl">&nbsp;</div>
+  </div>
+</div>
+<div id="featured-content">
+  <div class="shell">
+    <h2>Ласкаво просимо</h2>
+    <p>Сайт призначений для користувачів яким потрібно дізнатися щось про CPU або підібрати CPU </p>
+  </div>
+</div>
+<div id="main">
+  <div class="shell">
+    <div class="col">
+      <div class="post">
+        <h3>Що таке процесор?</h3>
+        <p>Процесор — це «мозок» комп'ютера. Процесором називається пристрій, що здатен обробляти програмний код і визначати основні функції комп'ютера з обробки інформації, тобто процесор виконує основні процеси в комп'ютері.</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="post">
+        <h3>Основні характеристики центрального процесора</h3>
+        <p>— тип архітектури або серія (CISC, Intel х86, RISC);
+<p>— система підтримуваних команд (х86, ІА-32, ІА-64);
+<p>— розширення системи команд (ММХ, SSE, SSE2, 3Dnow!);
+<p>— конструктивне виконання (Slot 1, Slot 2, Socket 340, Socket 478, Slot A, Socket A);
+<p>— тактова частота (МГц, ГГц);
+<p>— частота системної шини.</p>
+      </div>
+    </div>
+    <div class="col col-last">
+      <div class="post">
+        <h3>Основними параметрами процесорів є:</h3>
+        <p> - тактова частота,
+<p> - розрядність,
+<p> - робоча напруга,
+<p> - коефіцієнт внутрішнього домноження тактової частоти,
+<p> - розмір кеш пам'яті.</p>
+      </div>
+    </div>
+    <div class="cl">&nbsp;</div>
+    <div id="main-content">
+      <div class="post">
+        <h3>Бренди</h3>
+        <p>Зараз на ринку процесорів існує два конкурентноспроможних бренди: Intel та AMD, кожен має свої плюси та мінуси, особливості кожного дозволяють краще підібрати СPU.  </p>
+      </div>
+    </div>
+    <div id="sidebar">
+      <div class="post">
+        <h3>Чому так важливо підібрати правильний процесор?</h3>
+        <p>Це важливо за для раціонального використання ресурсів комп'ютера, та для економії фінансів.</p>
+      </div>
+    </div>
+    <div class="cl">&nbsp;</div>
+  </div>
+</div>
+<div class="footer">
+  <div class="shell">
+    <p class="lf">Copyright &copy; 2018 <a href="#">YalovenkoProd</a> - All Rights Reserved</p>
+    <p class="rf">>Приклад сайту </a> для дипломної роботи</a></p>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+</body>
+</html>
